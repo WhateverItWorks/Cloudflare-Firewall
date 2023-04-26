@@ -21,19 +21,6 @@ Wordpress Security | [wordpresssecurity.rules](./wordpresssecurity.rules) | Capt
 ![](https://media.discordapp.net/attachments/819747919581675530/829678478278000650/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678903131897906/unknown.png) 
 
-## Wayback Machine
-
-- > https://www.google.com/search?q=wayback+machine+alternative (Look for ways to block these sites, But the main ones that people use is archive.org, archive.is, archive.fo, archive.today, and archive.ph. That means that the cyber stalkers are mainly kids or people that want to pay and give up their personal information to paid archive sites which are lawful and probably has bots as well which can be blocked...)
-
 ## Update Bad ASN List:
 
 > To update the [bad-asn.rules](./bad-asn.rules), Go to [bad asn list](https://github.com/brianhama/bad-asn-list/blob/master/bad-asn-list.csv). This list may be 4 years old, But some still works and it is a huge list. There may be some other huge list, Just do your own research.
-
-
-
-### Rules
-
--   [Allow rules](https://github.com/xbdmhq/cloudflare-firewall/tree/main/allow-rules)
--   [Block rules](https://github.com/xbdmhq/cloudflare-firewall/tree/main/block-rules)
--   [Challenge Captcha rules](https://github.com/xbdmhq/cloudflare-firewall/tree/main/challenge-captcha-rules)
--   [Challenge JS rules](https://github.com/xbdmhq/cloudflare-firewall/tree/main/challenge-js-rules)
