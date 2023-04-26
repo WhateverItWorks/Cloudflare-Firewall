@@ -11,15 +11,17 @@ Common Countries | [common-country.rules](./common-country.rules) | Block | Only
 Bad ASN List | [bad-asn.rules](./bad-asn.rules) | Block | Bad ASN List Of Most Known Proxyscraping Sites.<br>
 Threat Score | [threatscore.rules](./threatscore.rules) | Block | Block Bad Threats Flagged By Cloudflare<br>
 Request Method | [request-method.rules](./request-method.rules) | Block | Block POST & HEAD Request's Only Allow GET Request's Unless Needed.<br>
-Block Bots | [blockbots.rules](./blockbots.rules) | Block | Block Bots that won't be in your firewall manager.
-Block Bad Bots | [badbots.rules](./badbots.rules) | Block | Block bad bots.
-Wordpress Security | [wordpresssecurity.rules](./wordpresssecurity.rules) | Captcha | People that is not from the united states will do a captcha.
 
 ## Examples: 
 ![](https://media.discordapp.net/attachments/819747919581675530/829677841292460042/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678093706592276/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678478278000650/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678903131897906/unknown.png) 
+
+### Resources:
+
+-   [NexusGuard.com Thread Report 2018](https://www.nexusguard.com/hubfs/2019%20PTC/Nexusguard_Q3%202018%20Threat%20Report.pdf)
+-   [CloudFlare DDoS Trends 2021](https://blog.cloudflare.com/ddos-attack-trends-for-2021-q2/)
 
 ## Update Bad ASN List:
 
