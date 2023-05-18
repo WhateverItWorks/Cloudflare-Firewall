@@ -1,1 +1,1 @@
-(ip.geoip.country in {"AU" "CA" "CN" "IN" "NZ" "RU" "ES" "GB" "US" "T1" "XX"})
+(ip.geoip.country in {"AU" "CA" "CN" "IN" "NZ" "RU" "ES" "GB" "T1" "XX"})
