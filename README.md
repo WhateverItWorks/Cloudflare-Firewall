@@ -12,7 +12,7 @@ Bad ASN List | [bad-asn.rules](./bad-asn.rules) | Block | Bad ASN List Of Most K
 Threat Score | [threatscore.rules](./threatscore.rules) | Block | Block Bad Threats Flagged By Cloudflare<br>
 Request Method | [request-method.rules](./request-method.rules) | Block | Block POST & HEAD Request's Only Allow GET Request's Unless Needed.<br>
 Expressions (Part 1) | [expressions.rules](./expressions.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
-Expressions (Part 2) | [expressions.rules](./expressions2.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
+Expressions (Part 2) | [expressions2.rules](./expressions2.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
 
 ## Examples: 
 ![](https://media.discordapp.net/attachments/819747919581675530/829677841292460042/unknown.png) 
