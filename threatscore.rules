@@ -1,2 +1,1 @@
-(cf.threat_score eq 3 and cf.threat_score gt 3)
-
+(cf.threat_score gt 14)
