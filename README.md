@@ -6,13 +6,15 @@ A look into protecting your website with my Cloudflare Free Firewall Rules Plan
 
 Rule Name | File Name | Action | What For
 ---- | ---- | ---- | ----
-General | [rules.ssl](./rules.ssl) | Manually Add | Peformance, User Experience, DDOS Protection, Crawlers<br>
-Common Countries | [common-country.rules](./common-country.rules) | Block | Only Allow Country's Who Won't Pass Much Malicous Traffic.<br>
-Bad ASN List | [bad-asn.rules](./bad-asn.rules) | Block | Bad ASN List Of Most Known Proxyscraping Sites.<br>
-Threat Score | [threatscore.rules](./threatscore.rules) | Block | Block Bad Threats Flagged By Cloudflare<br>
+General (UPDATED!) | [rules.ssl](./rules.ssl) | Manually Add | Peformance, User Experience, DDOS Protection, Crawlers<br>
+Common Countries (UPDATED!) | [common-country.rules](./common-country.rules) | Manage Challenge | Only Allow Country's Who Won't Pass Much Malicous Traffic.<br>
+Good ASN List (NEW!) | [asn.rules](./asn.rules) | Manage Challenge | Captcha Good ASN List Of Most Known Proxyscraping Sites.<br>
+Bad ASN List (UPDATED!) | [bad-asn.rules](./bad-asn.rules) | Block | Block Bad ASN List Of Most Known Proxyscraping Sites.<br>
+Threat Score (UPDATED!) | [threatscore.rules](./threatscore.rules) | Block | Block Bad Threats Flagged By Cloudflare<br>
 Request Method | [request-method.rules](./request-method.rules) | Block | Block POST & HEAD Request's Only Allow GET Request's Unless Needed.<br>
-Expressions (Part 1) | [expressions.rules](./expressions.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
-Expressions (Part 2) | [expressions2.rules](./expressions2.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
+User Agents (NEW!) | [user-agents.rules](./user-agents.rules) | Block | Block Known User-Agents <br>
+Expressions (Part 1) (NEW!) | [expressions.rules](./expressions.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
+Expressions (Part 2) (NEW!) | [expressions2.rules](./expressions2.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
 
 ## Examples: 
 ![](https://media.discordapp.net/attachments/819747919581675530/829677841292460042/unknown.png) 
