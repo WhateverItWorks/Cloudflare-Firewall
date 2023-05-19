@@ -6,6 +6,7 @@ A look into protecting your website with my Cloudflare Free Firewall Rules Plan
 
 Rule Name | File Name | Action | What For
 ---- | ---- | ---- | ----
+Known Bots (NEW!) | [known-bots.rules](./known-bots.rules) | Allow Bots | Allow bots that are false positively block<br>
 General (UPDATED!) | [rules.ssl](./rules.ssl) | Manually Add | Peformance, User Experience, DDOS Protection, Crawlers<br>
 Common Countries (UPDATED!) | [common-country.rules](./common-country.rules) | Manage Challenge | Only Allow Country's Who Won't Pass Much Malicous Traffic.<br>
 Country (NEW!) | [country.rules](./country.rules) | Block | Block Tor only on clearnet.<br>
