@@ -25,3 +25,5 @@ Wget/1.20.3 (mingw32) > Block
 CheckHost (https://check-host.net/) > Block 
 node-fetch/1.0 (+https://github.com/bitinn/node-fetch) > Block
 Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98) > Block
+archive.org_bot > Block
+ia_archiver > Block
