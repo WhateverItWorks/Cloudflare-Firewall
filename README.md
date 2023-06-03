@@ -8,7 +8,7 @@ Rule Name | File Name | Action | What For
 ---- | ---- | ---- | ----
 Known Bots (NEW!) | [known-bots.rules](./known-bots.rules) | Allow Bots | Allow bots that are false positively block<br>
 General (UPDATED!) | [rules.ssl](./rules.ssl) | Manually Add | Peformance, User Experience, DDOS Protection, Crawlers<br>
-Common Country (UPDATED!) | [country.rules](./common-country.rules) | Block | Only Allow Country's Who Won't Pass Much Malicous Traffic.<br>
+Common Country (UPDATED!) | [common-country.rules](./common-country.rules) | Block | Only Allow Country's Who Won't Pass Much Malicous Traffic.<br>
 Good ASN List (NEW!) | [asn.rules](./asn.rules) | Manage Challenge | Captcha Good ASN List Of Most Known Proxyscraping Sites.<br>
 Bad ASN List (UPDATED!) | [bad-asn.rules](./bad-asn.rules) | Block | Block Bad ASN List Of Most Known Proxyscraping Sites.<br>
 Threat Score (UPDATED!) | [threatscore.rules](./threatscore.rules) | Block | Block Bad Threats Flagged By Cloudflare<br>
