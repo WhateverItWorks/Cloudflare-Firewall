@@ -15,7 +15,7 @@ _______________________________________________________
 Firewall > Settings > Browser Integrity Check > OFF
 Firewall > Settings > Privacypass Support > OFF
 ---------------------------------------------------
-Firewall > Tools > User Agent Blocking > Create Blocking Rule (9 User-Agents)
+Firewall > Tools > User Agent Blocking > Create Blocking Rule (8 User-Agents)
  
 CyotekWebCopy/1.8 CyotekHTTP/3.0 > Block
 CyotekWebCopy/1.8 CyotekHTTP/1.1 > Block
@@ -25,4 +25,3 @@ Wget/1.20.3 (mingw32) > Block
 CheckHost (https://check-host.net/) > Block 
 node-fetch/1.0 (+https://github.com/bitinn/node-fetch) > Block
 Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98) > Block
-Googlebot-Image/1.0 > Block
