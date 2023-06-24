@@ -41,7 +41,6 @@ AS8075 (Upptime) > Allow This Website
 Firewall > Tools > Zone Lockdown (Cloudflare Pro Required) > Create Allow IP Ranges (0 Zone Lockdown Rules)
 
 For example if you want to allow only cloudflare ip ranges inside a certain zone:
-```
+
 1.1.1.0/28
 1.1.1.0/12
-```
