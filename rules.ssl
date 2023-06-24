@@ -27,7 +27,7 @@ node-fetch/1.0 (+https://github.com/bitinn/node-fetch) > Block
 Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98) > Block
 
 ---------------------------------------------------
-Firewall > Tools > IP Access Rules > Create Allow/Blocking Rule (3 IP Access Rules)
+Firewall > Tools > IP Access Rules > Create Allow/Blocking Rule (7 IP Access Rules)
  
 AS24940 (Webbkoll) > Allow This Website
 AS30081 (Shields.io) > Allow This Website
