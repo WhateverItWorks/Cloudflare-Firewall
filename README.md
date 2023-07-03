@@ -1,3 +1,8 @@
+### Cloudflare now requires Photo ID via Stripe
+![](https://bffr.wtf/r/uPeHWs.jpg?compress=false)
+![](https://bffr.wtf/r/dvIBDJ.jpg?compress=false)
+
+
 ### Cloudflare-Firewall
 
 A look into protecting your website with my Cloudflare Free Firewall Rules Plan
