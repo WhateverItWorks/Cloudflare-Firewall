@@ -1,6 +1,6 @@
 ### Cloudflare-Firewall
 
-A look into protecting your website with my Cloudflare Free Firewall Rules Plan
+A look into protecting your website with Cloudflare Free/Pro Firewall Rules Plan.
 
 ## Firewall Rules: 
 
