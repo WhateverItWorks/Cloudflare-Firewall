@@ -1,8 +1,3 @@
-### Cloudflare now requires Photo ID via Stripe
-![](screenshots/1.jpg)
-![](screenshots/2.jpg)
-
-
 ### Cloudflare-Firewall
 
 A look into protecting your website with my Cloudflare Free Firewall Rules Plan
@@ -33,3 +28,7 @@ Expressions (Part 2) (NEW!) | [expressions2.rules](./expressions2.rules) | Block
 -   [CloudFlare DDoS Trends 2021](https://blog.cloudflare.com/ddos-attack-trends-for-2021-q2/)
 -   [Bad ASNS List](https://github.com/brianhama/bad-asn-list/blob/master/bad-asn-list.csv)
 -   [Archive Site Removal Guide](https://blog.reputationx.com/block-wayback-machine)
+
+### ⚠️ Cloudflare now requires Photo ID via Stripe ⚠️
+![](screenshots/1.jpg)
+![](screenshots/2.jpg)
