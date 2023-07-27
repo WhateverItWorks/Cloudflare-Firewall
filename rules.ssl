@@ -36,13 +36,3 @@ AS8075 (Upptime) > Allow This Website
 137.184.11.168 (Security Headers) > Allow This Website
 2604:a880:0004:01d0:0000:0000:03fd:2000 (Security Headers) > Allow This Website
 2604:a880:0004:01d0:0000:0000:03f5:9000 (Security Headers) > Allow This Website
-
----------------------------------------------------
-Firewall > Tools > Zone Lockdown (Cloudflare Pro Required) > Create Allow IP Ranges (0 Zone Lockdown Rules)
-
-For example if you want to allow only home ip ranges inside a certain zone:
-
-192.168.1.1/24
-192.168.1.1/12
-192.168.1.1/28
-192.168.1.1/16
