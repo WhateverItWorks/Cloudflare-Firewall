@@ -18,11 +18,16 @@ Zone lockdown (NEW!) | [zone-lockdown.rules](./zone-lockdown.rules) | Block | Al
 Expressions (Part 1) (NEW!) | [expressions.rules](./expressions.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
 Expressions (Part 2) (NEW!) | [expressions2.rules](./expressions2.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
 
-## Examples: 
+## Cloudflare Dashboard Examples v1 (OLD): 
 ![](https://media.discordapp.net/attachments/819747919581675530/829677841292460042/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678093706592276/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678478278000650/unknown.png) 
 ![](https://media.discordapp.net/attachments/819747919581675530/829678903131897906/unknown.png) 
+
+## Examples v2: 
+```
+soon...
+```
 
 ### Sources:
 
