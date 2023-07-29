@@ -13,6 +13,8 @@ Bad ASN List (UPDATED!) | [bad-asn.rules](./bad-asn.rules) | Block | Block Bad A
 Threat Score (UPDATED!) | [threatscore.rules](./threatscore.rules) | Block | Block Bad Threats Flagged By Cloudflare<br>
 Request Method | [request-method.rules](./request-method.rules) | Block | Block POST & HEAD Request's Only Allow GET Request's Unless Needed.<br>
 User Agents (NEW!) | [user-agents.rules](./user-agents.rules) | Block | Block Known User-Agents <br>
+mTLS-enforced authentication (NEW!) | [mTLS-enforced.rules](./mTLS-enforced.rules) | Block | Block requests from devices without a valid known client SSL/TLS certificate. <br>
+Zone lockdown (NEW!) | [zone-lockdown.rules](./zone-lockdown.rules) | Block | Allow only specific IP addresses to access certain URLs such as an admin or protected area on your website. <br>
 Expressions (Part 1) (NEW!) | [expressions.rules](./expressions.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
 Expressions (Part 2) (NEW!) | [expressions2.rules](./expressions2.rules) | Block | This Expressions are highly recommended for Node.js applications based on frameworks like Express. <br>
 
