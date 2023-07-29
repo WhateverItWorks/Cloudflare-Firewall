@@ -1,0 +1,1 @@
+(ip.src in $abuseipdb and http.request.uri.path in {""})
