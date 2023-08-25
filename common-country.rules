@@ -1,1 +1,1 @@
-(ip.geoip.country in {"T1"})
+(ip.geoip.country in {"T1" "GB"})
